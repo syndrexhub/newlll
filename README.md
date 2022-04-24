@@ -1,4 +1,4 @@
-# AUTOSCRIPT BY VPN Squidvpn
+# AUTOSCRIPT BY VPN Diyvpn
 
  <h2 align="center">AutoScript Install VPN By Squidvpn <img src="https://img.shields.io/badge/Version-1-blue.svg"></h2>
 
